@@ -1,0 +1,20 @@
+C:\Users\dinh\documents\visual studio 2010\Projects\Hotel1WS\Hotel1WS\bin\Hotel1WS.dll
+C:\Users\dinh\documents\visual studio 2010\Projects\Hotel1WS\Hotel1WS\bin\Hotel1WS.pdb
+C:\Users\dinh\documents\visual studio 2010\Projects\Hotel1WS\Hotel1WS\obj\Debug\Hotel1WS.dll
+C:\Users\dinh\documents\visual studio 2010\Projects\Hotel1WS\Hotel1WS\obj\Debug\Hotel1WS.pdb
+C:\Users\dinh\documents\visual studio 2010\Projects\Hotel1WS\Hotel1WS\obj\Debug\Hotel1WS.csprojResolveAssemblyReference.cache
+C:\Users\0961020gmail.com\Documents\Visual Studio 2010\Projects\Hotel1WS\Hotel1WS\bin\Hotel1WS.dll
+C:\Users\0961020gmail.com\Documents\Visual Studio 2010\Projects\Hotel1WS\Hotel1WS\bin\Hotel1WS.pdb
+C:\Users\0961020gmail.com\Documents\Visual Studio 2010\Projects\Hotel1WS\Hotel1WS\obj\Debug\Hotel1WS.csprojResolveAssemblyReference.cache
+C:\Users\0961020gmail.com\Documents\Visual Studio 2010\Projects\Hotel1WS\Hotel1WS\obj\Debug\Hotel1WS.dll
+C:\Users\0961020gmail.com\Documents\Visual Studio 2010\Projects\Hotel1WS\Hotel1WS\obj\Debug\Hotel1WS.pdb
+C:\Users\Administrator\Desktop\HuongDan\LOCAL_VERSION\Hotel1WS\Hotel1WS\bin\Hotel1WS.dll
+C:\Users\Administrator\Desktop\HuongDan\LOCAL_VERSION\Hotel1WS\Hotel1WS\bin\Hotel1WS.pdb
+C:\Users\Administrator\Desktop\HuongDan\LOCAL_VERSION\Hotel1WS\Hotel1WS\obj\Debug\Hotel1WS.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\HuongDan\LOCAL_VERSION\Hotel1WS\Hotel1WS\obj\Debug\Hotel1WS.dll
+C:\Users\Administrator\Desktop\HuongDan\LOCAL_VERSION\Hotel1WS\Hotel1WS\obj\Debug\Hotel1WS.pdb
+D:\Tai lieu\HCDH\HK2\TMDT\HuongDan\LOCAL_VERSION\Hotel1WS\Hotel1WS\bin\Hotel1WS.dll
+D:\Tai lieu\HCDH\HK2\TMDT\HuongDan\LOCAL_VERSION\Hotel1WS\Hotel1WS\bin\Hotel1WS.pdb
+D:\Tai lieu\HCDH\HK2\TMDT\HuongDan\LOCAL_VERSION\Hotel1WS\Hotel1WS\obj\Debug\Hotel1WS.csprojResolveAssemblyReference.cache
+D:\Tai lieu\HCDH\HK2\TMDT\HuongDan\LOCAL_VERSION\Hotel1WS\Hotel1WS\obj\Debug\Hotel1WS.dll
+D:\Tai lieu\HCDH\HK2\TMDT\HuongDan\LOCAL_VERSION\Hotel1WS\Hotel1WS\obj\Debug\Hotel1WS.pdb
